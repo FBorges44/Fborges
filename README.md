@@ -44,8 +44,8 @@ Sou um desenvolvedor Web apaixonado por tecnologia, atualmente finalizando minha
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islno&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fborges44&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fborges44&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
 </div>
 
 ---
